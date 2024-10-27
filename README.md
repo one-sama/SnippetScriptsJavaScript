@@ -1,2 +1,3 @@
 # SnippetScripts
-Este Snippet sirve para facilitar el tener que poner los scripts en el head de tu html
+Este Snippet sirve para facilitar la escritura de los scripts en el head de tu html
+
